@@ -1,0 +1,20 @@
+@font-face {
+    font-family: GBold;
+    src: url(../fonts/Gilroy-Bold.ttf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: GMedium;
+    src: url(../fonts/Gilroy-Medium.ttf);
+    font-weight: 500;
+}
+@font-face {
+    font-family: GRegular;
+    src: url(../fonts/Gilroy-Regular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: GSemibold;
+    src: url(../fonts/Gilroy-Semibold.ttf);
+    font-weight: 600;
+}
